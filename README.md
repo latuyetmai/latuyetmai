@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mai
 - 👀 I’m interested in Machine Learning, Statistics and Programing
 - 🌱 I’m currently learning Data Science at UC Berkeley - Master of Information & Data Science (MIDS) program
-- 💞️ I’m looking to collaborate on any interesting data analytics and modeling projects
+- 💞️ I’m happy to collaborate on any interesting data analytics and modeling project.
 - 📫 How to reach me: https://www.linkedin.com/in/latuyetmai/
 
 <!---
